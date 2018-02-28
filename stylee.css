@@ -27,11 +27,6 @@ font-family: roboto;
       padding: 0 0 100px;
 
   }
-.carousel-inner {
-    position: relative;
-    overflow: hidden;
-    height: 100px;
-}
 
 
   @media screen and (min-width: 750px){
